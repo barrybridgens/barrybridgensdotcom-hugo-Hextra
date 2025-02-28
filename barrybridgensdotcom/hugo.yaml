@@ -1,0 +1,11 @@
+baseURL: https://barrybridgens.com
+languageCode: en-us
+title: Barry Bridgens dot com
+theme: hextra
+
+menu:
+  main:
+    - name: Blog
+      pageRef: /blog
+      weight: 1
+
